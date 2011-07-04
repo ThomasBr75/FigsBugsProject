@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FigsBugsSpecs\When_a_number_is_divisible_by_4_but_not_5.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="FigsBugsSpecs\When_a_number_is_divisible_by_3_and_5.cs" />
     <Compile Include="FigsBugsSpecs\When_a_number_is_divisible_by_5.cs" />

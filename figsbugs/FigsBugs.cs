@@ -18,6 +18,8 @@ namespace FigsBugsProject
                 return "FigsBugs";
             if (DivisibleBy3ButNot5())
                 return "Figs";
+            if (DivisibleBy4ButNot5())
+                return "Extra!";
             return _number.ToString();
         }
 
@@ -35,6 +37,12 @@ namespace FigsBugsProject
         {
             return ((_number % 5 != 0) && (_number % 3 == 0));
         }
+
+        private bool DivisibleBy4ButNot5()
+        {
+            return ((_number % 5 != 0) && (_number % 4 == 0));
+        }
+
 
     }
 }
