@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\devel\ThomasBr75\FigsBugs\FigsBugsTests\bin\Debug\FigsBugsTests.dll" total="5" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2011-07-04" time="12:30:43">
+  <environment nunit-version="2.5.2.9222" clr-version="2.0.50727.4961" os-version="Microsoft Windows NT 6.1.7600.0" platform="Win32NT" cwd="C:\Program Files\NUnit 2.5.2\bin\net-2.0" machine-name="THOMAS-PC" user="Thomas" user-domain="Thomas-PC" />
+  <culture-info current-culture="nb-NO" current-uiculture="en-US" />
+  <test-suite name="C:\devel\ThomasBr75\FigsBugs\FigsBugsTests\bin\Debug\FigsBugsTests.dll" executed="True" success="True" time="0.139" asserts="0">
+    <results>
+      <test-suite name="FigsBugsTests" executed="True" success="True" time="0.126" asserts="0">
+        <results>
+          <test-suite name="FigsBugsSpecs" executed="True" success="True" time="0.126" asserts="0">
+            <results>
+              <test-suite name="When_a_number_is_divisible_by_3_and_5" executed="True" success="True" time="0.043" asserts="0">
+                <results>
+                  <test-case name="FigsBugsTests.FigsBugsSpecs.When_a_number_is_divisible_by_3_and_5.It_should_return_FigsBugs" executed="True" success="True" time="0.010" asserts="1" />
+                </results>
+              </test-suite>
+              <test-suite name="When_a_number_is_divisible_by_5" executed="True" success="True" time="0.001" asserts="0">
+                <results>
+                  <test-case name="FigsBugsTests.FigsBugsSpecs.When_a_number_is_divisible_by_5.It_should_return_Bugs" executed="True" success="True" time="0.000" asserts="1" />
+                </results>
+              </test-suite>
+              <test-suite name="When_number_is_divisible_by_3" executed="True" success="True" time="0.001" asserts="0">
+                <results>
+                  <test-case name="FigsBugsTests.FigsBugsSpecs.When_number_is_divisible_by_3.It_should_return_Figs" executed="True" success="True" time="0.000" asserts="1" />
+                </results>
+              </test-suite>
+              <test-suite name="When_run_100_times" executed="True" success="True" time="0.070" asserts="0">
+                <results>
+                  <test-case name="FigsBugsTests.FigsBugsSpecs.When_run_100_times.A_100_strings_should_be_printed" executed="True" success="True" time="0.003" asserts="1" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+      <test-suite name="FizzBuzzTests" executed="True" success="True" time="0.004" asserts="0">
+        <results>
+          <test-suite name="FigsBugsSpecs" executed="True" success="True" time="0.003" asserts="0">
+            <results>
+              <test-suite name="When_a_number_is_not_divisible_by_3_or_5" executed="True" success="True" time="0.001" asserts="0">
+                <results>
+                  <test-case name="FizzBuzzTests.FigsBugsSpecs.When_a_number_is_not_divisible_by_3_or_5.It_should_return_the_actual_number" executed="True" success="True" time="0.000" asserts="1" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

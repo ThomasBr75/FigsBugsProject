@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1010]C:\devel\ThomasBr75\FigsBugs\FigsBugsTests\bin\Debug\FigsBugsTests.dll</TopNode>
+  <SelectedNode>[0-1010]C:\devel\ThomasBr75\FigsBugs\FigsBugsTests\bin\Debug\FigsBugsTests.dll</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1010]C:\devel\ThomasBr75\FigsBugs\FigsBugsTests\bin\Debug\FigsBugsTests.dll" Expanded="true" />
+    <Node UniqueName="[0-1011]FigsBugsTests" Expanded="true" />
+    <Node UniqueName="[0-1012]FigsBugsTests.FigsBugsSpecs" Expanded="true" />
+    <Node UniqueName="[0-1004]FigsBugsTests.FigsBugsSpecs.When_a_number_is_divisible_by_3_and_5" Expanded="true" />
+    <Node UniqueName="[0-1000]FigsBugsTests.FigsBugsSpecs.When_a_number_is_divisible_by_5" Expanded="true" />
+    <Node UniqueName="[0-1002]FigsBugsTests.FigsBugsSpecs.When_number_is_divisible_by_3" Expanded="true" />
+    <Node UniqueName="[0-1008]FigsBugsTests.FigsBugsSpecs.When_run_100_times" Expanded="true" />
+    <Node UniqueName="[0-1013]FizzBuzzTests" Expanded="true" />
+    <Node UniqueName="[0-1014]FizzBuzzTests.FigsBugsSpecs" Expanded="true" />
+    <Node UniqueName="[0-1006]FizzBuzzTests.FigsBugsSpecs.When_a_number_is_not_divisible_by_3_or_5" Expanded="true" />
+  </Nodes>
+</VisualState>

@@ -1,0 +1,9 @@
+C:\devel\ThomasBr75\FigsBugs\FigsBugsTests\obj\Debug\ResolveAssemblyReference.cache
+C:\devel\ThomasBr75\FigsBugs\FigsBugsTests\bin\Debug\FigsBugsTests.dll
+C:\devel\ThomasBr75\FigsBugs\FigsBugsTests\bin\Debug\FigsBugsTests.pdb
+C:\devel\ThomasBr75\FigsBugs\FigsBugsTests\bin\Debug\FigsBugs.dll
+C:\devel\ThomasBr75\FigsBugs\FigsBugsTests\bin\Debug\nunit.framework.dll
+C:\devel\ThomasBr75\FigsBugs\FigsBugsTests\bin\Debug\FigsBugs.pdb
+C:\devel\ThomasBr75\FigsBugs\FigsBugsTests\bin\Debug\nunit.framework.xml
+C:\devel\ThomasBr75\FigsBugs\FigsBugsTests\obj\Debug\FigsBugsTests.dll
+C:\devel\ThomasBr75\FigsBugs\FigsBugsTests\obj\Debug\FigsBugsTests.pdb

@@ -1,0 +1,5 @@
+C:\devel\ThomasBr75\FigsBugs\FigsBugs\bin\Debug\FigsBugs.dll
+C:\devel\ThomasBr75\FigsBugs\FigsBugs\bin\Debug\FigsBugs.pdb
+C:\devel\ThomasBr75\FigsBugs\FigsBugs\obj\Debug\ResolveAssemblyReference.cache
+C:\devel\ThomasBr75\FigsBugs\FigsBugs\obj\Debug\FigsBugs.dll
+C:\devel\ThomasBr75\FigsBugs\FigsBugs\obj\Debug\FigsBugs.pdb
